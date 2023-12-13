@@ -1,0 +1,119 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    background-color: #1a1a1a;
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    background-color: #1a1a1a;
+    box-shadow:    0px 0px 10px 0px gray;
+    padding: 20px 0px 20px 0px;
+
+}
+.logoimg{
+    width: 65%;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #Fff;
+    font-size: 0.8em;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+.navbar-light .navbar-nav .nav-link:hover
+{
+    color: #fff;
+    transform: scale(1.2);
+}
+/* effectivedata start */
+.cmnbg{
+    background-color: #11356b;
+}
+.effective-data{
+    margin: 60px 0px;
+    padding: 50px 0px;
+}
+.effec-dataimg1{
+    width:15%;
+}
+.effec-dataimg2{
+    width: 35%;
+}
+.effective-data h2{
+    color: #FFFFFF;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 43px;
+    padding: 0px 60px 0px;
+    margin-bottom: 30px;
+}
+.effective-data a, .sinko-connector a{
+    background-color: #165EC9;
+    border-radius: 0px 0px 0px 0px;
+    padding: 15px 40px 15px 40px;
+    color: #fff;
+    text-decoration: none;
+}
+/* our technology strat */
+.our-technology{
+padding: 40px 0px;
+}
+.our-technology h2{
+    color: #61CE70;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 4.3px;
+}
+.our-technology p{
+    color: #FFFFFF;
+    font-size: 25px;
+    line-height: 35px;
+    padding: 0px 65px;
+}
+
+/* sinko start */
+.sinko{
+    margin:50px 0px
+}
+.sinko-connector{
+    padding: 70px 0px 80px;
+}
+.sinko-connector img{
+    width: 35%;
+}
+.sinko-connector h2{
+    color: #61CE70;
+    font-family: "Poppins", Sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+    padding: 20px 0px 6px;
+}
+.sinko-connector p,.cablingp p{
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.25em;
+    margin-bottom: 30px;
+}
+/* capling start */
+.capling-content{
+
+}
+.cablingimg img{
+    margin-top: -40px;
+}
+.cablingp p{
+    font-size: 23px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.corning img{
+    margin-top: 50px;
+    margin-left: -48px;
+}
