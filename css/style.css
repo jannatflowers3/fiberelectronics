@@ -117,3 +117,48 @@ padding: 40px 0px;
     margin-top: 50px;
     margin-left: -48px;
 }
+
+/* complete solutin start */
+.blacktexturebg{
+    background-image: url('../images/blacktexture-crop-u68393.jpg');
+    min-height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    position: relative;
+}
+.blacktexturebg-overlay{
+    background-color: #100d0dd9;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 50px 120px;
+}
+.fiber-solution img{
+transition: .3s;
+}
+.fiber-solution img:hover{
+    transform:translateY(-10px);
+}
+.fiber-solution H5{
+    color: #FFFFFF;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    bottom: 31px;
+    position: relative;
+}
+.fibersolutin-title {
+    padding-top: 27px;
+    padding-bottom: 40px;
+}
+.fibersolution-para p{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.fibersolution-product img{
+    width: 10%;
+    margin-top: 50px;
+}
